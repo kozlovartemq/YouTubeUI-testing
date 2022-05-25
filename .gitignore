@@ -1,0 +1,6 @@
+/.pytest_cache
+/venv
+/.idea
+geckodriver.exe
+chromedriver.exe
+geckodriver.log
